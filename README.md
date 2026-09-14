@@ -1,39 +1,75 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=header" width="100%" alt=""/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img src="assets/hero-light.svg" width="100%" alt="Technical network illustration: connected nodes and moving signals">
+</picture>
 
 # Tomáš Řádek
 
-*High school student in the Czech Republic. Represented Czechia at the International Olympiad in AI (IOAI) 2026 in Astana, after placing 1st nationally in the Czech AI Olympiad selection.*
+I'm a high school student in the Czech Republic. I build AI systems, strategy games, and tools for my own workflow.
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&pause=1200&color=4493F8&center=true&vCenter=true&width=560&lines=Building+AI+systems+and+games;Learning+by+building%2C+not+just+reading" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/subtitle-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/subtitle-light.svg">
+  <img src="assets/subtitle-light.svg" width="420" alt="Building AI systems · Creating strategy games · Designing tools I use">
+</picture>
 
-</div>
+**AI Olympiads** — 1st place in the Czech AI Olympiad selection; represented Czechia at IOAI 2026 in Astana.
 
-<br>
+## Selected projects
 
-## Projects
+These projects are under active development. Their source repositories are private.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/prizma-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/prizma-light.svg">
+  <img src="assets/prizma-light.svg" width="100%" alt="Prizma — conceptual illustration">
+</picture>
 
 ### Prizma
-A local chat app that routes every prompt to the best free LLM available, using only API keys you configure yourself — no proxy account, no shared keys, everything stored in the OS credential store. A planner model reads the request first and briefs whichever model answers it; if the planner fails or the request is trivial, a heuristic classifier takes over, and the router fails over to another provider automatically when one hits a rate limit.
 
-<sub>Python · FastAPI · LiteLLM · React · SQLite</sub>
+A chat app that routes requests between LLM providers using your own API keys. A planner selects how to handle each prompt, with fallback routing when a provider hits its limits.
+
+<sub>Python · FastAPI · LiteLLM · React · TypeScript</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/iron-dust-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/iron-dust-light.svg">
+  <img src="assets/iron-dust-light.svg" width="100%" alt="Iron Dust — conceptual illustration">
+</picture>
 
 ### Iron Dust
-A turn-based economy-strategy game set in 1872 on the American frontier, built in Godot with an isometric 2.5D view. Resource production, a branching tech tree, territory and settlements, trade, and combat against an AI faction that actively expands and attacks — rule-based for now, with a reinforcement-learning version planned once the scripted opponent is properly balanced.
+
+A turn-based strategy game set on the American frontier in 1872. Build settlements, manage resources and trade, and fight for territory on an isometric hex map.
 
 <sub>Godot 4 · GDScript</sub>
 
-### Wi-Fi Radar
-A local dashboard that tracks devices on my home network and estimates which room they're in. The router doesn't expose RSSI, so it calibrates against link speed and response latency instead, and reports a confidence level rather than a distance it can't actually back up.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+  <img src="assets/radar-light.svg" width="100%" alt="Wi-Fi Radar — conceptual illustration">
+</picture>
 
-<sub>Python · FastAPI · SQLite · React · TypeScript · Chrome extension</sub>
+### Wi-Fi Radar
+
+A local dashboard for devices on my home network, with a calibrated estimate of their room. It uses link speeds and response latency, and shows uncertainty when the signals are inconclusive.
+
+<sub>Python · FastAPI · SQLite · React · TypeScript</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/opsys-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/opsys-light.svg">
+  <img src="assets/opsys-light.svg" width="100%" alt="OP sys — conceptual illustration">
+</picture>
 
 ### OP sys
-A control layer for switching work modes on Windows — restores project context and flags which processes don't belong in the current mode, but never closes anything without confirmation. Modes are just TOML profiles with inheritance, not code, so adding one doesn't touch the app.
+
+A Windows app for switching between work modes and restoring project context. Inheritable TOML profiles define each mode and suggest which processes no longer belong.
 
 <sub>TypeScript · Rust · Tauri</sub>
 
-<br>
-
-<sub>Most of this is still moving — commit history is more current than this page.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
+  <img src="assets/footer-light.svg" width="100%" alt="">
+</picture>
