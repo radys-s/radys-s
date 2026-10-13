@@ -1,75 +1,41 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Technical network illustration: connected nodes and moving signals">
-</picture>
+<img src="assets/hero.svg" width="100%" alt="Tomáš Řádek — student from Czechia">
 
-# Tomáš Řádek
+Hi, I'm Tomáš. I'm in high school in Czechia, and most of what's on this account started as
+a problem I had myself: taking notes in class, logging sets at the gym, running out of free
+API quota halfway through something.
 
-I'm a high school student in the Czech Republic. I build AI systems, strategy games, and tools for my own workflow.
+This year I won the Czech selection for the International Olympiad in Artificial Intelligence
+and competed for Czechia at **IOAI 2026** in Astana.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/subtitle-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/subtitle-light.svg">
-  <img src="assets/subtitle-light.svg" width="420" alt="Building AI systems · Creating strategy games · Designing tools I use">
-</picture>
+Lately I also build AI dev tooling: small systems that let
+coding agents plan, hand off and check each other's work.
 
-**AI Olympiads** — 1st place in the Czech AI Olympiad selection; represented Czechia at IOAI 2026 in Astana.
+<img src="assets/divider.svg" width="100%" alt="">
 
-## Selected projects
+### things I'm building
 
-These projects are under active development. Their source repositories are private.
+<a href="https://github.com/radys-s/recorder"><img src="assets/card-recorder.svg" width="49%" alt="recorder"></a>
+<a href="https://github.com/radys-s/gymzapisnik"><img src="assets/card-gymzapisnik.svg" width="49%" alt="gymzapisnik"></a>
+<a href="https://github.com/radys-s/prizma"><img src="assets/card-prizma.svg" width="49%" alt="prizma"></a>
+<a href="https://github.com/radys-s/aibridge-studio"><img src="assets/card-aibridge-studio.svg" width="49%" alt="aibridge-studio"></a>
+<a href="https://github.com/radys-s/iron-dust"><img src="assets/card-iron-dust.svg" width="49%" alt="iron-dust"></a>
+<a href="https://github.com/radys-s/opsys"><img src="assets/card-opsys.svg" width="49%" alt="opsys"></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/prizma-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/prizma-light.svg">
-  <img src="assets/prizma-light.svg" width="100%" alt="Prizma — conceptual illustration">
-</picture>
+Smaller ones: [growthOS](https://github.com/radys-s/growthOS) ranks competitions and internships
+by how much they'd actually help, [aibridge](https://github.com/radys-s/aibridge) is a memory layer
+for coding agents.
 
-### Prizma
+### what I use
 
-A chat app that routes requests between LLM providers using your own API keys. A planner selects how to handle each prompt, with fallback routing when a provider hits its limits.
+```
+daily      Python, Dart/Flutter, TypeScript, React, FastAPI, SQLite / Postgres
+sometimes  Rust (Tauri), Godot, Next.js, Supabase
+ml         classical ML and deep learning, mostly from olympiad work
+around it  Claude Code, Codex, git, a lot of Obsidian notes
+```
 
-<sub>Python · FastAPI · LiteLLM · React · TypeScript</sub>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/iron-dust-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/iron-dust-light.svg">
-  <img src="assets/iron-dust-light.svg" width="100%" alt="Iron Dust — conceptual illustration">
-</picture>
-
-### Iron Dust
-
-A turn-based strategy game set on the American frontier in 1872. Build settlements, manage resources and trade, and fight for territory on an isometric hex map.
-
-<sub>Godot 4 · GDScript</sub>
+<img src="assets/divider.svg" width="100%" alt="">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-  <img src="assets/radar-light.svg" width="100%" alt="Wi-Fi Radar — conceptual illustration">
-</picture>
-
-### Wi-Fi Radar
-
-A local dashboard for devices on my home network, with a calibrated estimate of their room. It uses link speeds and response latency, and shows uncertainty when the signals are inconclusive.
-
-<sub>Python · FastAPI · SQLite · React · TypeScript</sub>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/opsys-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/opsys-light.svg">
-  <img src="assets/opsys-light.svg" width="100%" alt="OP sys — conceptual illustration">
-</picture>
-
-### OP sys
-
-A Windows app for switching between work modes and restoring project context. Inheritable TOML profiles define each mode and suggest which processes no longer belong.
-
-<sub>TypeScript · Rust · Tauri</sub>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
-  <img src="assets/footer-light.svg" width="100%" alt="">
+  <img src="https://raw.githubusercontent.com/radys-s/radys-s/output/snake.svg" width="100%" alt="contribution graph being eaten by a snake">
 </picture>

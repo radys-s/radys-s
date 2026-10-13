@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240" width="600" height="240" role="img" aria-label="opsys">
+<style>.d{animation:g 2.4s ease-in-out infinite}@keyframes g{50%{opacity:.35}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<rect x="1" y="1" width="598" height="238" rx="14" fill="#050806" stroke="#14321d" stroke-width="2"/>
+<rect x="1" y="30" width="4" height="54" rx="2" fill="#39d353"/>
+<text x="34" y="48" font-family="ui-monospace,SFMono-Regular,'Cascadia Code',Consolas,Menlo,monospace" font-size="13" fill="#3d6148">TypeScript · Rust</text>
+<rect x="458.6" y="30" width="107.39999999999999" height="26" rx="13" fill="#0b1f12" stroke="#1d4a2a"/>
+<circle class="d" cx="472.6" cy="43" r="4" fill="#7fa88a"/>
+<text x="482.6" y="48" font-family="ui-monospace,SFMono-Regular,'Cascadia Code',Consolas,Menlo,monospace" font-size="13" fill="#b6f0c4">prototype</text>
+<text x="34" y="84" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#dcfbe4">opsys</text>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16.5" fill="#7fa88a"><text x="34" y="120">Switches Windows between work modes, brings</text><text x="34" y="145">back project context and suggests which</text><text x="34" y="170">processes don't belong. Never kills anything.</text></g>
+<line x1="34" y1="190" x2="566" y2="190" stroke="#10261a"/>
+<text x="34" y="215" font-family="ui-monospace,SFMono-Regular,'Cascadia Code',Consolas,Menlo,monospace" font-size="13.5" fill="#39d353">Tauri v2 · Rust · TypeScript · TOML</text>
+</svg>
