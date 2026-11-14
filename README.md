@@ -29,6 +29,24 @@ for coding agents, [athlete-os](https://github.com/radys-s/athlete-os) is the gy
 gymzapisnik grew out of, and my [t3code fork](https://github.com/radys-s/t3code) adds automatic
 model routing to T3 Code.
 
+<!-- activity:start -->
+### latest releases
+
+- **gymzapisnik** [1.0.0 beta 12](https://github.com/radys-s/gymzapisnik/releases/tag/v1.0.0-beta.12) (pre-release) · 2026-11-14
+- **opsys** [v0.1.0](https://github.com/radys-s/opsys/releases/tag/v0.1.0) (pre-release) · 2026-11-14
+- **aibridge** [v0.1.0](https://github.com/radys-s/aibridge/releases/tag/v0.1.0) · 2026-11-14
+- **growthOS** [v0.1.0](https://github.com/radys-s/growthOS/releases/tag/v0.1.0) · 2026-11-14
+- **prizma** [v0.1.0](https://github.com/radys-s/prizma/releases/tag/v0.1.0) · 2026-11-14
+
+### recently worked on
+
+- [gymzapisnik](https://github.com/radys-s/gymzapisnik) · Offline-first gym log in Czech: fast set entry, PRs, split templates, progression coach. Flutter.
+- [opsys](https://github.com/radys-s/opsys) · Work-mode switcher for Windows 11: restores project context, suggests what to close. Tauri.
+- [aibridge](https://github.com/radys-s/aibridge) · Local memory and context layer for AI coding agents. Retrieves only what the task needs.
+- [growthOS](https://github.com/radys-s/growthOS) · Ranks competitions, internships and projects by how much they move my profile toward a goal.
+- [prizma](https://github.com/radys-s/prizma) · Chat app that routes each prompt across free LLM APIs using your own keys. FastAPI + React.
+<!-- activity:end -->
+
 ### what I use
 
 ```
