@@ -20,10 +20,14 @@ coding agents plan, hand off and check each other's work.
 <a href="https://github.com/radys-s/aibridge-studio"><img src="assets/card-aibridge-studio.svg" width="49%" alt="aibridge-studio"></a>
 <a href="https://github.com/radys-s/iron-dust"><img src="assets/card-iron-dust.svg" width="49%" alt="iron-dust"></a>
 <a href="https://github.com/radys-s/opsys"><img src="assets/card-opsys.svg" width="49%" alt="opsys"></a>
+<a href="https://github.com/radys-s/AlgoTrade"><img src="assets/card-algotrade.svg" width="49%" alt="AlgoTrade"></a>
+<a href="https://github.com/radys-s/impostor"><img src="assets/card-impostor.svg" width="49%" alt="impostor"></a>
 
 Smaller ones: [growthOS](https://github.com/radys-s/growthOS) ranks competitions and internships
 by how much they'd actually help, [aibridge](https://github.com/radys-s/aibridge) is a memory layer
-for coding agents.
+for coding agents, [athlete-os](https://github.com/radys-s/athlete-os) is the gym tracker that
+gymzapisnik grew out of, and my [t3code fork](https://github.com/radys-s/t3code) adds automatic
+model routing to T3 Code.
 
 ### what I use
 
