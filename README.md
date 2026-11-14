@@ -32,19 +32,19 @@ model routing to T3 Code.
 <!-- activity:start -->
 ### latest releases
 
+- **recorder** [Aftermind 1.0.0 (build 3)](https://github.com/radys-s/recorder/releases/tag/v1.0.0) · 2026-11-14
+- **impostor** [1.0.0](https://github.com/radys-s/impostor/releases/tag/v1.0.0) · 2026-11-14
+- **aibridge-studio** [v0.5.0](https://github.com/radys-s/aibridge-studio/releases/tag/v0.5.0) · 2026-11-14
 - **gymzapisnik** [1.0.0 beta 12](https://github.com/radys-s/gymzapisnik/releases/tag/v1.0.0-beta.12) (pre-release) · 2026-11-14
 - **opsys** [v0.1.0](https://github.com/radys-s/opsys/releases/tag/v0.1.0) (pre-release) · 2026-11-14
-- **aibridge** [v0.1.0](https://github.com/radys-s/aibridge/releases/tag/v0.1.0) · 2026-11-14
-- **growthOS** [v0.1.0](https://github.com/radys-s/growthOS/releases/tag/v0.1.0) · 2026-11-14
-- **prizma** [v0.1.0](https://github.com/radys-s/prizma/releases/tag/v0.1.0) · 2026-11-14
 
 ### recently worked on
 
+- [recorder](https://github.com/radys-s/recorder) · Records a school lesson, transcribes it and turns it into notes, quizzes and answers. Flutter.
+- [impostor](https://github.com/radys-s/impostor) · Impostor - free Czech party game (Flutter, iPhone sideload)
+- [aibridge-studio](https://github.com/radys-s/aibridge-studio) · Plan with Claude Code or Codex, implement with a cheap model, verify and review the diff.
 - [gymzapisnik](https://github.com/radys-s/gymzapisnik) · Offline-first gym log in Czech: fast set entry, PRs, split templates, progression coach. Flutter.
 - [opsys](https://github.com/radys-s/opsys) · Work-mode switcher for Windows 11: restores project context, suggests what to close. Tauri.
-- [aibridge](https://github.com/radys-s/aibridge) · Local memory and context layer for AI coding agents. Retrieves only what the task needs.
-- [growthOS](https://github.com/radys-s/growthOS) · Ranks competitions, internships and projects by how much they move my profile toward a goal.
-- [prizma](https://github.com/radys-s/prizma) · Chat app that routes each prompt across free LLM APIs using your own keys. FastAPI + React.
 <!-- activity:end -->
 
 ### what I use
