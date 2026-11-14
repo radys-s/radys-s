@@ -16,7 +16,7 @@ coding agents plan, hand off and check each other's work.
 
 <a href="https://github.com/radys-s/recorder"><img src="assets/card-recorder.svg" width="49%" alt="recorder"></a>
 <a href="https://github.com/radys-s/gymzapisnik"><img src="assets/card-gymzapisnik.svg" width="49%" alt="gymzapisnik"></a>
-<a href="https://github.com/radys-s/prizma"><img src="assets/card-prizma.svg" width="49%" alt="prizma"></a>
+<a href="https://github.com/radys-s/refrakt"><img src="assets/card-refrakt.svg" width="49%" alt="refrakt"></a>
 <a href="https://github.com/radys-s/aibridge-studio"><img src="assets/card-aibridge-studio.svg" width="49%" alt="aibridge-studio"></a>
 <a href="https://github.com/radys-s/iron-dust"><img src="assets/card-iron-dust.svg" width="49%" alt="iron-dust"></a>
 <a href="https://github.com/radys-s/opsys"><img src="assets/card-opsys.svg" width="49%" alt="opsys"></a>
