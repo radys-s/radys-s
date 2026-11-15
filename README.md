@@ -40,11 +40,11 @@ model routing to T3 Code.
 
 ### recently worked on
 
-- [recorder](https://github.com/radys-s/recorder) · Records a school lesson, transcribes it and turns it into notes, quizzes and answers. Flutter.
-- [impostor](https://github.com/radys-s/impostor) · Impostor - free Czech party game (Flutter, iPhone sideload)
-- [aibridge-studio](https://github.com/radys-s/aibridge-studio) · Plan with Claude Code or Codex, implement with a cheap model, verify and review the diff.
+- [refrakt](https://github.com/radys-s/refrakt) · Chat app that routes each prompt across free LLM APIs using your own keys. FastAPI + React.
 - [gymzapisnik](https://github.com/radys-s/gymzapisnik) · Offline-first gym log in Czech: fast set entry, PRs, split templates, progression coach. Flutter.
-- [opsys](https://github.com/radys-s/opsys) · Work-mode switcher for Windows 11: restores project context, suggests what to close. Tauri.
+- [aibridge-studio](https://github.com/radys-s/aibridge-studio) · Plan with Claude Code or Codex, implement with a cheap model, verify and review the diff.
+- [growthOS](https://github.com/radys-s/growthOS) · Ranks competitions, internships and projects by how much they move my profile toward a goal.
+- [recorder](https://github.com/radys-s/recorder) · Records a school lesson, transcribes it and turns it into notes, quizzes and answers. Flutter.
 <!-- activity:end -->
 
 ### what I use
