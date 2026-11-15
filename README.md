@@ -40,11 +40,11 @@ model routing to T3 Code.
 
 ### recently worked on
 
+- [stonetown-navrhy](https://github.com/radys-s/stonetown-navrhy) · Ukázkové návrhy webu (demo, ne oficiální stránky)
 - [refrakt](https://github.com/radys-s/refrakt) · Chat app that routes each prompt across free LLM APIs using your own keys. FastAPI + React.
 - [gymzapisnik](https://github.com/radys-s/gymzapisnik) · Offline-first gym log in Czech: fast set entry, PRs, split templates, progression coach. Flutter.
 - [aibridge-studio](https://github.com/radys-s/aibridge-studio) · Plan with Claude Code or Codex, implement with a cheap model, verify and review the diff.
 - [growthOS](https://github.com/radys-s/growthOS) · Ranks competitions, internships and projects by how much they move my profile toward a goal.
-- [recorder](https://github.com/radys-s/recorder) · Records a school lesson, transcribes it and turns it into notes, quizzes and answers. Flutter.
 <!-- activity:end -->
 
 ### what I use
