@@ -40,11 +40,11 @@ model routing to T3 Code.
 
 ### recently worked on
 
+- [growthOS](https://github.com/radys-s/growthOS) · Ranks competitions, internships and projects by how much they move my profile toward a goal.
 - [aibridge-studio](https://github.com/radys-s/aibridge-studio) · Plan with Claude Code or Codex, implement with a cheap model, verify and review the diff.
 - [opsys](https://github.com/radys-s/opsys) · Work-mode switcher for Windows 11: restores project context, suggests what to close. Tauri.
 - [refrakt](https://github.com/radys-s/refrakt) · Chat app that routes each prompt across free LLM APIs using your own keys. FastAPI + React.
 - [iron-dust](https://github.com/radys-s/iron-dust) · Turn-based strategy on a hex map, American frontier 1872. Godot 4.
-- [stonetown-navrhy](https://github.com/radys-s/stonetown-navrhy) · Ukázkové návrhy webu (demo, ne oficiální stránky)
 <!-- activity:end -->
 
 ### what I use
