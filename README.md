@@ -32,19 +32,19 @@ model routing to T3 Code.
 <!-- activity:start -->
 ### latest releases
 
+- **gymzapisnik** [1.0.0 beta 14](https://github.com/radys-s/gymzapisnik/releases/tag/v1.0.0-beta.14) (pre-release) · 2026-11-18
+- **aibridge-studio** [v0.6.0](https://github.com/radys-s/aibridge-studio/releases/tag/v0.6.0) · 2026-11-18
+- **refrakt** [v0.2.0](https://github.com/radys-s/refrakt/releases/tag/v0.2.0) · 2026-11-18
 - **recorder** [Aftermind 1.0.0 (build 3)](https://github.com/radys-s/recorder/releases/tag/v1.0.0) · 2026-11-14
 - **impostor** [1.0.0](https://github.com/radys-s/impostor/releases/tag/v1.0.0) · 2026-11-14
-- **aibridge-studio** [v0.5.0](https://github.com/radys-s/aibridge-studio/releases/tag/v0.5.0) · 2026-11-14
-- **gymzapisnik** [1.0.0 beta 12](https://github.com/radys-s/gymzapisnik/releases/tag/v1.0.0-beta.12) (pre-release) · 2026-11-14
-- **opsys** [v0.1.0](https://github.com/radys-s/opsys/releases/tag/v0.1.0) (pre-release) · 2026-11-14
 
 ### recently worked on
 
-- [growthOS](https://github.com/radys-s/growthOS) · Ranks competitions, internships and projects by how much they move my profile toward a goal.
-- [aibridge-studio](https://github.com/radys-s/aibridge-studio) · Plan with Claude Code or Codex, implement with a cheap model, verify and review the diff.
-- [opsys](https://github.com/radys-s/opsys) · Work-mode switcher for Windows 11: restores project context, suggests what to close. Tauri.
+- [gymzapisnik](https://github.com/radys-s/gymzapisnik) · Offline-first gym log in Czech: fast set entry, PRs, split templates, progression coach. Flutter.
+- [AlgoTrade](https://github.com/radys-s/AlgoTrade) · competition in prague hosted by matfyz and qminers
 - [refrakt](https://github.com/radys-s/refrakt) · Chat app that routes each prompt across free LLM APIs using your own keys. FastAPI + React.
-- [iron-dust](https://github.com/radys-s/iron-dust) · Turn-based strategy on a hex map, American frontier 1872. Godot 4.
+- [aibridge-studio](https://github.com/radys-s/aibridge-studio) · Plan with Claude Code or Codex, implement with a cheap model, verify and review the diff.
+- [recorder](https://github.com/radys-s/recorder) · Records a school lesson, transcribes it and turns it into notes, quizzes and answers. Flutter.
 <!-- activity:end -->
 
 ### what I use
