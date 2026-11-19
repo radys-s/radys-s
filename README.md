@@ -32,19 +32,19 @@ model routing to T3 Code.
 <!-- activity:start -->
 ### latest releases
 
+- **aibridge** [v0.2.0](https://github.com/radys-s/aibridge/releases/tag/v0.2.0) · 2026-11-19
+- **growthOS** [v0.2.0](https://github.com/radys-s/growthOS/releases/tag/v0.2.0) · 2026-11-19
 - **gymzapisnik** [1.0.0 beta 14](https://github.com/radys-s/gymzapisnik/releases/tag/v1.0.0-beta.14) (pre-release) · 2026-11-18
 - **aibridge-studio** [v0.6.0](https://github.com/radys-s/aibridge-studio/releases/tag/v0.6.0) · 2026-11-18
 - **refrakt** [v0.2.0](https://github.com/radys-s/refrakt/releases/tag/v0.2.0) · 2026-11-18
-- **recorder** [Aftermind 1.0.0 (build 3)](https://github.com/radys-s/recorder/releases/tag/v1.0.0) · 2026-11-14
-- **impostor** [1.0.0](https://github.com/radys-s/impostor/releases/tag/v1.0.0) · 2026-11-14
 
 ### recently worked on
 
-- [gymzapisnik](https://github.com/radys-s/gymzapisnik) · Offline-first gym log in Czech: fast set entry, PRs, split templates, progression coach. Flutter.
-- [AlgoTrade](https://github.com/radys-s/AlgoTrade) · competition in prague hosted by matfyz and qminers
-- [refrakt](https://github.com/radys-s/refrakt) · Chat app that routes each prompt across free LLM APIs using your own keys. FastAPI + React.
-- [aibridge-studio](https://github.com/radys-s/aibridge-studio) · Plan with Claude Code or Codex, implement with a cheap model, verify and review the diff.
 - [recorder](https://github.com/radys-s/recorder) · Records a school lesson, transcribes it and turns it into notes, quizzes and answers. Flutter.
+- [aibridge](https://github.com/radys-s/aibridge) · Local memory and context layer for AI coding agents. Retrieves only what the task needs.
+- [growthOS](https://github.com/radys-s/growthOS) · Ranks competitions, internships and projects by how much they move my profile toward a goal.
+- [impostor](https://github.com/radys-s/impostor) · Impostor - free Czech party game (Flutter, iPhone sideload)
+- [gymzapisnik](https://github.com/radys-s/gymzapisnik) · Offline-first gym log in Czech: fast set entry, PRs, split templates, progression coach. Flutter.
 <!-- activity:end -->
 
 ### what I use
