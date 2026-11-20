@@ -40,11 +40,11 @@ model routing to T3 Code.
 
 ### recently worked on
 
+- [aibridge-studio](https://github.com/radys-s/aibridge-studio) · Plan with Claude Code or Codex, implement with a cheap model, verify and review the diff.
+- [growthOS](https://github.com/radys-s/growthOS) · Ranks competitions, internships and projects by how much they move my profile toward a goal.
 - [stonetown-navrhy](https://github.com/radys-s/stonetown-navrhy) · Ukázkové návrhy webu (demo, ne oficiální stránky)
 - [recorder](https://github.com/radys-s/recorder) · Records a school lesson, transcribes it and turns it into notes, quizzes and answers. Flutter.
 - [aibridge](https://github.com/radys-s/aibridge) · Local memory and context layer for AI coding agents. Retrieves only what the task needs.
-- [growthOS](https://github.com/radys-s/growthOS) · Ranks competitions, internships and projects by how much they move my profile toward a goal.
-- [impostor](https://github.com/radys-s/impostor) · Impostor - free Czech party game (Flutter, iPhone sideload)
 <!-- activity:end -->
 
 ### what I use
